@@ -1,0 +1,14 @@
+C:\Users\redmi\source\repos\KT\KT\bin\Debug\net8.0\KT.exe
+C:\Users\redmi\source\repos\KT\KT\bin\Debug\net8.0\KT.deps.json
+C:\Users\redmi\source\repos\KT\KT\bin\Debug\net8.0\KT.runtimeconfig.json
+C:\Users\redmi\source\repos\KT\KT\bin\Debug\net8.0\KT.dll
+C:\Users\redmi\source\repos\KT\KT\bin\Debug\net8.0\KT.pdb
+C:\Users\redmi\source\repos\KT\KT\obj\Debug\net8.0\KT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redmi\source\repos\KT\KT\obj\Debug\net8.0\KT.AssemblyInfoInputs.cache
+C:\Users\redmi\source\repos\KT\KT\obj\Debug\net8.0\KT.AssemblyInfo.cs
+C:\Users\redmi\source\repos\KT\KT\obj\Debug\net8.0\KT.csproj.CoreCompileInputs.cache
+C:\Users\redmi\source\repos\KT\KT\obj\Debug\net8.0\KT.dll
+C:\Users\redmi\source\repos\KT\KT\obj\Debug\net8.0\refint\KT.dll
+C:\Users\redmi\source\repos\KT\KT\obj\Debug\net8.0\KT.pdb
+C:\Users\redmi\source\repos\KT\KT\obj\Debug\net8.0\KT.genruntimeconfig.cache
+C:\Users\redmi\source\repos\KT\KT\obj\Debug\net8.0\ref\KT.dll
